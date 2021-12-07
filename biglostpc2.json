@@ -7,12 +7,12 @@
 	"BANNER_PLACEMENT": "DefaultBanner",
 	"INTERSTITIAL_PLACEMENT": "DefaultInterstitial",
 
-	"whichAds": 0,
+	"whichAds": 1,
 
 	"MoreApps": "h3116631",
 	"PrivacyPolicy": "https://sites.google.com/view/privacypolicyallinone/accueil",
 
-	"button1": "WELCOM TO M.N.T",
+	"button1": "Big Lots!",
 
 	"popAppLink": "htp",
 	"popAppName": "Gap",
@@ -20,8 +20,8 @@
 	"popAppPackage": "cp",
 	"popAppIsActive": false,
 
-	"BUTTON_NAME": "READ NOW",
+	"BUTTON_NAME": "SHOP NOW",
 
-	"BUTTON_URL": "https://docs.google.com/document/d/1l7wbHtSD6MB_x48RULimliBqdTq6e18_VOkyWRlkWD0/edit?usp=sharing"
+	"BUTTON_URL": "https://www.biglots.com"
 
 }
